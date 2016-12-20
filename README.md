@@ -1,0 +1,2 @@
+# kliklokasi
+Direktori lokasi
